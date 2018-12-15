@@ -23,9 +23,10 @@ ONCBOX做为一个应用服务器、文件NAS服务器、开发测试服务器�
 
 ## V2版
 
-V2版 远观图片
-!(url){:height="100px" width="100px"}
-!(url){:height="100px" width="100px"}
+### V2版 远观图片:
+
+ ![v2_1](https://github.com/OpenNetworkConnect/oncbox-web/raw/master/img/v2_1.jpg)
+ ![v2_2](https://github.com/OpenNetworkConnect/oncbox-web/raw/master/img/v2_2.jpg)
 
 
 ONCBOX V2版 硬件参数：
@@ -45,4 +46,11 @@ ONCBOX V2版 硬件参数：
 
 ### 价格:  早鸟价360元 （正常价420元）
 
-购买连接：!(url){:height="100px" width="100px"}
+### 购买连接：
+
+ ![pinduoduo](https://github.com/OpenNetworkConnect/oncbox-web/raw/master/img/pinduoduo.jpg)
+ 
+### 微信联系：
+
+
+ ![wechat](https://github.com/OpenNetworkConnect/oncbox-web/raw/master/img/wechat.jpg)
