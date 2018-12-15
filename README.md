@@ -21,8 +21,12 @@ ONCBOX做为一个应用服务器、文件NAS服务器、开发测试服务器�
 
 ### 目的是让大家可以有测试平台
 
+## V2版
 
 V2版 远观图片
+!(url){:height="100px" width="100px"}
+!(url){:height="100px" width="100px"}
+
 
 ONCBOX V2版 硬件参数：
 * CPU：4core 1.1Ghz 
@@ -40,3 +44,5 @@ ONCBOX V2版 硬件参数：
 * 内置软件：系统基本自带软件。
 
 ### 价格:  早鸟价360元 （正常价420元）
+
+购买连接：!(url){:height="100px" width="100px"}
